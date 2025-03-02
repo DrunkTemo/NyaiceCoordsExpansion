@@ -1,0 +1,4 @@
+name: NyaiceCoordsExpansion
+version: '${project.version}'
+main: drunktemo.me.nyaicecoordsexpansion.NyaiceCoordsExpansion
+api-version: '1.20'
